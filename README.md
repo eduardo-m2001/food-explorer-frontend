@@ -41,8 +41,8 @@ ___
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone git@github.com:eduardo-m2001/food-explorer-frontend
-$ git clone git@github.com:eduardo-m2001/food-explorer-backend
+$ git clone https://github.com/eduardo-m2001/food-explorer-frontend
+$ git clone https://github.com/eduardo-m2001/food-explorer-backend
 ```
 ___
 
